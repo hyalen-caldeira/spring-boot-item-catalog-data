@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Sun Mar 12 23:44:51 PDT 2017:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-015a-c669-909a-0000072fd0f8 
+Mon Mar 13 16:21:11 PDT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-015a-c9f9-bb79-000005818c90 
 on database directory memory:/Users/hyalen/Documents/workspace-sts-3.8.3.RELEASE/item-catalog-sb-data/testdb with class loader sun.misc.Launcher$AppClassLoader@2a139a55 
 Loaded from file:/Users/hyalen/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
 java.vendor=Oracle Corporation
