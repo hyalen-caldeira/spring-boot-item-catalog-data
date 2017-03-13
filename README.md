@@ -1,6 +1,6 @@
 # SpringBoot Item Catalog Data
 
-This project was created using STS IDE. But notice you can also create the same project in other ways, like using Spring Initializr, Spring Boot CLI or even creating a empty Maven project.
+This project was created using STS IDE. But notice you can also create the same project in other ways, like using Spring Initializr, Spring Boot CLI or even creating a empty Maven project and add the needed dependecies.
 
 Obs
 - In your project, use the resources/application.properties file to customize the application. A simple example of customization you can do is to change the default port of your Servlet container using the server.port option (server.port=####).
