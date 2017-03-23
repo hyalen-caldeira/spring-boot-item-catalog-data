@@ -3,7 +3,9 @@ package us.hyalen.itemcatalog.menuitem;
 import java.util.List;
 
 import org.springframework.data.repository.CrudRepository;
+import org.springframework.stereotype.Repository;
 
+@Repository
 public interface MenuItemRepository extends CrudRepository <MenuItem, Integer> {
 	// instance variable <restaurant> and within it the instance variable <id>
 	// That way the spring can implement the find method. 
